@@ -1,0 +1,1 @@
+Application gets users GPS coordinates and figures out the closest point of interest (POI), then downloads and parses website of public transport and displays 3 upcoming bus connections.
